@@ -28,7 +28,7 @@ body, html {
   .container #rzp-button1 {
     width: auto;
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
