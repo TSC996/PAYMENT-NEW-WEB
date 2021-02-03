@@ -20,7 +20,7 @@ body, html {
     font-size: 35px;
     color: crimson;
     background-color: rgb(34, 29, 27);
-    padding: 20px 40px;
+    padding: auto;
 
   }
   
@@ -35,7 +35,7 @@ body, html {
     background-color: rgb(107, 87, 80);
     color: white;
     font-size: 16px;
-    padding: 50px 100px;
+    padding: auto;
     border: none;
     cursor: pointer;
     border-radius: 5px;
