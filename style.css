@@ -14,6 +14,7 @@ body, html {
     height: auto;
   }
   .container p{
+    width: auto;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 35px;
@@ -25,6 +26,7 @@ body, html {
   
   /* Style the button and place it in the middle of the container/image */
   .container #rzp-button1 {
+    width: auto;
     position: absolute;
     top: 50%;
     left: 50%;
